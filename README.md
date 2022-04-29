@@ -28,7 +28,7 @@ Alternatively, you can download ZIP of the repository by clicking on code, and c
 
 ``` bash
 # Go into the repository
-$ cd CodeATale
+$ cd ReadDolittle1338
 ```
 Add ServiceAccountKey.json to the CodeATale/root/backend/src folder. This will allow developers to write words and all corresponding attributes (definition, is_sight_word, is_child_word, parent_word, derivative_words, and block_from_quiz) to the database. The files DefParser.py, DefParser2.py, DefParser3.py, and DefParser4.py require ServiceAccountKey.json to execute.
 
