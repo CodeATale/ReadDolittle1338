@@ -22,7 +22,7 @@ To clone and run this application, you will need [Git](https://git-scm.com/) ins
 Open a terminal or command prompt.
 ``` bash
 # Clone this repository
-$ git clone https://github.com/neilhpatel/CodeATale.git
+$ git clone https://github.com/CodeATale/ReadDolittle1338.git
 ```
 Alternatively, you can download ZIP of the repository by clicking on code, and clicking on download ZIP. If you want to simply run the application and do not wish to run any individual files or write to the database, skip to step 4 (Run the application).
 
